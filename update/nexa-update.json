@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.0.1",
   "releasePageUrl": "https://github.com/KazeyDev26/NexaPlayer/releases/latest",
   "apkDirectUrl": "",
-  "releaseNotes": "Replace apkDirectUrl with the real asset URL from each GitHub Release. Bump latestVersionCode and latestVersionName when you publish a new APK."
+  "releaseNotes": "Live TV: live info card hides with the player controls.\nBack from fullscreen: smoother return to channel list.\nTV Guide: channel logos stay a uniform size.\nSports Report: better league package matching; NBA/NFL/MLB/NHL/MLS/WNBA can open the live player directly.\nAuto-tagging: games linked to streams; LIVE badge on matching channels.\nSet apkDirectUrl after you attach the APK to this release."
 }
