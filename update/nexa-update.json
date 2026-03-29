@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "releasePageUrl": "https://github.com/KazeyDev26/NexaPlayer/releases/latest",
+  "apkDirectUrl": "",
+  "releaseNotes": "Replace apkDirectUrl with the real asset URL from each GitHub Release. Bump latestVersionCode and latestVersionName when you publish a new APK."
+}
