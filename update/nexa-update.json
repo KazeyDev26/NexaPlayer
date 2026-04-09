@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.0.1",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.0.2",
   "releasePageUrl": "https://github.com/KazeyDev26/NexaPlayer/releases/latest",
   "apkDirectUrl": "https://aftv.news/7948289",
-  "releaseNotes": "Live TV: live info card hides with the player controls.\nBack from fullscreen: smoother return to channel list.\nTV Guide: channel logos stay a uniform size.\nSports Report: better league package matching; NBA/NFL/MLB/NHL/MLS/WNBA can open the live player directly.\nAuto-tagging: games linked to streams; LIVE badge on matching channels.\nDownloader: code 7948289 — same as this update link.\nReleases page: https://github.com/KazeyDev26/NexaPlayer/releases/latest"
+  "releaseNotes": "1.0.2: Series catalog loading and JSON parsing hardened; update check opens GitHub releases (APK still via downloader code 7948289).\nBuilt-in player: stream format, decoder/buffer/audio/surface options in Settings.\nMovies & Series: clearer cyan focus ring on posters and categories.\n\nEarlier: Live TV info card with controls; smoother back from fullscreen; TV Guide logo sizing; Sports Report league matching and live open; auto-tagging LIVE badges."
 }
