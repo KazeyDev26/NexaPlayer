@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 3,
-  "latestVersionName": "1.0.2",
+  "latestVersionCode": 4,
+  "latestVersionName": "1.0.3",
   "releasePageUrl": "https://github.com/KazeyDev26/NexaPlayer/releases/latest",
   "apkDirectUrl": "https://aftv.news/7948289",
-  "releaseNotes": "1.0.2: Series catalog loading and JSON parsing hardened; update check opens GitHub releases (APK still via downloader code 7948289).\nBuilt-in player: stream format, decoder/buffer/audio/surface options in Settings.\nMovies & Series: clearer cyan focus ring on posters and categories.\n\nEarlier: Live TV info card with controls; smoother back from fullscreen; TV Guide logo sizing; Sports Report league matching and live open; auto-tagging LIVE badges."
+  "releaseNotes": "1.0.3: Home dashboard — clearer Movies / TV Series labels, compact tile layout, Sports slate count + TODAY row (no clipping), improved contrast on game counts. Player — refined control bar styling, vector play/seek icons. Performance — safer main-thread handling for nav restore, telemetry, and frame logging.\n\nEarlier: 1.0.2 series/catalog fixes; player settings; guide & sports improvements."
 }
