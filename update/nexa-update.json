@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.4",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.0.5",
   "releasePageUrl": "https://github.com/KazeyDev26/NexaPlayer/releases/latest",
   "apkDirectUrl": "https://aftv.news/3754646",
-  "releaseNotes": "1.0.4 — Home: Settings in the top bar with Search and Log out; removed bottom TV Guide / Settings row; Live TV opens the EPG grid; Movies and TV Series cards use the same gold shell as the hub. Player: removed manual buffer-size setting; live buffering tuned for smoother playback; fixed ExoPlayer DefaultLoadControl startup crash. Updates: in-app update opens the Downloader/aftv.news link after countdown (Settings dialog and background update notification)."
+  "releaseNotes": "1.0.5 — Updates: background update notification opens Nexa (not Downloader); install link only from Settings → Check for updates → Download update. Search: stable on large playlists (bounded SQL + no duplicate list keys), faster debounced queries, token + category matching for live/movies/series, recent search history with clear. Misc: safer master search load path."
 }
