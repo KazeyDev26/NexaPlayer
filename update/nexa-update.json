@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.3",
-  "releasePageUrl": "https://aftv.news/1671843",
-  "apkDirectUrl": "https://github.com/KazeyDev26/NexaPlayer/releases/latest",
-  "releaseNotes": "1.0.3: Home dashboard — clearer Movies / TV Series labels, compact tile layout, Sports slate count + TODAY row (no clipping), improved contrast on game counts. Player — refined control bar styling, vector play/seek icons. Performance — safer main-thread handling for nav restore, telemetry, and frame logging.\n\nEarlier: 1.0.2 series/catalog fixes; player settings; guide & sports improvements."
+  "latestVersionCode": 5,
+  "latestVersionName": "1.0.4",
+  "releasePageUrl": "https://github.com/KazeyDev26/NexaPlayer/releases/latest",
+  "apkDirectUrl": "https://apk.nexa8k.stream/Nexa8K.apk",
+  "releaseNotes": "1.0.4 — Home: Settings in the top bar with Search and Log out; removed bottom TV Guide / Settings row; Live TV opens the EPG grid; Movies and TV Series cards use the same gold shell as the hub. Player: removed manual buffer-size setting; live buffering tuned for smoother playback; fixed ExoPlayer DefaultLoadControl startup crash. Updates: in-app update uses direct APK at apk.nexa8k.stream when present (Settings dialog and background update notification)."
 }
