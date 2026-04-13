@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 7,
-  "latestVersionName": "1.0.5.1",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.0.5.2",
   "releasePageUrl": "https://github.com/KazeyDev26/NexaPlayer/releases/latest",
   "apkDirectUrl": "https://apk.nexa8k.stream/Nexa8K.apk",
-  "releaseNotes": "1.0.5.1 — Hotfix versioning: fourth segment (.1, .2, …) on same patch line; always bump versionCode. Direct APK updates (apk.nexa8k.stream). Search stability + history; launcher .jpg fix for AAPT."
+  "releaseNotes": "1.0.5.2 — In-app APK update: download inside Nexa (OkHttp + system installer), no WebView; notification and Settings use the same flow. TV: safer update notification path; URL launcher wrapped for crashes. Version 8 / hotfix .2."
 }
